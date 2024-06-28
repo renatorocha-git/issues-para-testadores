@@ -1,5 +1,5 @@
 ---
-name: Reportar um problema
+name: Reportar um problema "Bug"
 about: Descreva o problema encontrado
 ---
 **Descrição do problema:** *"Descreva o problema de forma clara e concisa."*
