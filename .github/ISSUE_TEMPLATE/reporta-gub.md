@@ -1,6 +1,6 @@
 ---
-Título: Reportar um problema
-Sobre: Descreva o problema encontrado
+name: Reportar um problema
+about: Descreva o problema encontrado
 ---
 **Descrição do problema**
 Descreva o problema de forma clara e concisa.
