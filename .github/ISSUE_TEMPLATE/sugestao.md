@@ -1,5 +1,5 @@
 ---
-name: Reportar Sugestão
+name: Fazer uma Sugestão
 about: Use este template para registrar um sugestão
 ---
 
